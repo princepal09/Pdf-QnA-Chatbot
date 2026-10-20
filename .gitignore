@@ -1,0 +1,11 @@
+.venv
+pdf.pdf
+.vscode/
+.idea/
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+!.env.example

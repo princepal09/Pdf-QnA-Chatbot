@@ -1,0 +1,11 @@
+langchain
+langchain-ollama
+langchain-core
+langchain-community
+pydantic
+langchain-text-splitters
+pymupdf
+ipykernel
+
+python-dotenv
+
