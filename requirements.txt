@@ -1,11 +1,13 @@
 langchain
 langchain-ollama
 langchain-core
+langchain-chroma
 langchain-community
+langchain-groq
 pydantic
 langchain-text-splitters
 pymupdf
 ipykernel
 
 python-dotenv
-
+chromadb

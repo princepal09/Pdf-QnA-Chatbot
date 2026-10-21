@@ -9,3 +9,5 @@ ENV/
 .env
 .env.*
 !.env.example
+Apache Kafka Beginner to Advanced Guide.pdf
+chroma_db/
