@@ -8,6 +8,7 @@ pydantic
 langchain-text-splitters
 pymupdf
 ipykernel
+pydantic
 
 python-dotenv
 chromadb
